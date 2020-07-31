@@ -1,4 +1,4 @@
-# Spell checker made in c language, taught by professor Eanes Torres, regarding the introduction to C language.
+# Spell checker made in C language, taught by professor Eanes Torres, regarding the introduction to C language.
 
 # Description
 
